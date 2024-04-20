@@ -26,8 +26,7 @@ this function panic?
 
 <details>
 
-The Fibonacci sequence is described in more detail [here][1]. The first and
-second cases are defined, after which it is calculated recursively.
+The Fibonacci sequence is described in more detail [here][1].
 
 </details>
 
